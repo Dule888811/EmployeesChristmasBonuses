@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\EmployeesChristmasBonuses\EmployeesChristmasBonuses\bin\Debug\EmployeesChristmasBonuses.exe.config
+C:\Users\pc\source\repos\EmployeesChristmasBonuses\EmployeesChristmasBonuses\bin\Debug\EmployeesChristmasBonuses.exe
+C:\Users\pc\source\repos\EmployeesChristmasBonuses\EmployeesChristmasBonuses\bin\Debug\EmployeesChristmasBonuses.pdb
+C:\Users\pc\source\repos\EmployeesChristmasBonuses\EmployeesChristmasBonuses\obj\Debug\EmployeesChristmasBonuses.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\EmployeesChristmasBonuses\EmployeesChristmasBonuses\obj\Debug\EmployeesChristmasBonuses.exe
+C:\Users\pc\source\repos\EmployeesChristmasBonuses\EmployeesChristmasBonuses\obj\Debug\EmployeesChristmasBonuses.pdb
+C:\Users\pc\source\repos\EmployeesChristmasBonuses\EmployeesChristmasBonuses\obj\Debug\EmployeesChristmasBonuses.csprojAssemblyReference.cache
